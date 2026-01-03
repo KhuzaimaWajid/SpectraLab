@@ -1,0 +1,27 @@
+# venv
+.venv/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# notebooks
+.ipynb_checkpoints/
+
+# build/package stuff
+build/
+dist/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# env/secrets
+.env
+
+# your generated outputs (optional)
+demo_results/
